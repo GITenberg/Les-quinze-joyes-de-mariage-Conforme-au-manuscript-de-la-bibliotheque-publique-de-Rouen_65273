@@ -1,0 +1,36 @@
+_repo: Les-quinze-joyes-de-mariage-Conforme-au-manuscript-de-la-bibliotheque-publique-de-Rouen_65273
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Sale, Antoine de
+    aliases:
+    - Sale, Antoine de la
+    - Salle, Antoine de la
+    - Salle, Anthoine de la
+    - De La Sale, Antoine
+    gutenberg_agent_id: '50271'
+    url: http://www.gutenberg.org/2009/agents/50271
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antoine_de_la_Sale
+    - https://fr.wikipedia.org/wiki/Antoine_de_La_Sale
+  editor:
+    agent_name: Jannet, Pierre
+    birthdate: 1820
+    deathdate: 1870
+    gutenberg_agent_id: '37398'
+    url: http://www.gutenberg.org/2009/agents/37398
+description: ''
+gutenberg_issued: '2021-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65273'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les quinze joyes de mariage
+
+  Conforme au manuscript de la bibliothèque publique de Rouen'
+url: http://www.gutenberg.org/ebooks/65273
